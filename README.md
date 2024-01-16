@@ -1,4 +1,4 @@
-# STREAMLIT_HANDY (MÃOZINHA) - Offensive Gesture Detector 👋🚫
+# PUC_DataScience - Exercises Neural Networks PUC 2023.1 #
 
 **PUC DataScience** exercises were carried out on the subject of neural networks at PUC 2023.1, where the topics of classification, time series and clustering are covered.
 
