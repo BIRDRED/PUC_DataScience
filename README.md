@@ -45,5 +45,3 @@ run notebooks in https://colab.research.google.com/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-We hope you enjoy offensive gesture detection with **STREAMLIT-HANDY **! If you have any questions or need assistance, please feel free to reach out to the development team. 😊👋
